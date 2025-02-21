@@ -1,0 +1,99 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "username": "vijayoe",
+      "age": 32,
+      "favourite_music_genre": "Jazz",
+      "preferred_programming_language": "Javascript",
+      "best_frontend_framework": "Vue"
+    },
+    {
+      "id": "3",
+      "first_name": "Michael",
+      "last_name": "Johnson",
+      "email": "michael.johnson@example.com"
+    },
+    {
+      "id": "4",
+      "first_name": "Emily",
+      "last_name": "Davis",
+      "email": "emily.davis@example.com"
+    },
+    {
+      "id": "5",
+      "first_name": "David",
+      "last_name": "Brown",
+      "email": "david.brown@example.com"
+    },
+    {
+      "id": "6",
+      "first_name": "Sarah",
+      "last_name": "Wilson",
+      "email": "sarah.wilson@example.com"
+    },
+    {
+      "id": "7",
+      "first_name": "James",
+      "last_name": "Anderson",
+      "email": "james.anderson@example.com"
+    },
+    {
+      "id": "8",
+      "first_name": "Emma",
+      "last_name": "Martinez",
+      "email": "emma.martinez@example.com"
+    },
+    {
+      "id": "9",
+      "first_name": "Robert",
+      "last_name": "Taylor",
+      "email": "robert.taylor@example.com"
+    },
+    {
+      "id": "10",
+      "first_name": "Olivia",
+      "last_name": "Thomas",
+      "email": "olivia.thomas@example.com"
+    },
+    {
+      "id": "566e",
+      "username": "Anbu",
+      "favourite_music_genre": "zz",
+      "preferred_programming_language": "Java;l;l;ll;script",
+      "best_frontend_framework": "Vue"
+    },
+    {
+      "0": {
+        "first_name": "{{first_name}}",
+        "last_name": "{{last_name}}",
+        "email": "{{email}}"
+      },
+      "id": "3a52"
+    },
+    {
+      "id": "bef0",
+      "first_name": "{{first_name}}",
+      "last_name": "{{last_name}}",
+      "email": "{{email}}"
+    },
+    {
+      "id": "0b0f",
+      "first_name": "maa",
+      "last_name": "Davis",
+      "email": "emily.davis@example.com"
+    },
+    {
+      "id": "eea2",
+      "first_name": "eyyy",
+      "last_name": "Davis",
+      "email": "emily.davis@example.com"
+    },
+    {
+      "id": "6642",
+      "first_name": "Eppadi",
+      "last_name": "Davis",
+      "email": "emily.davis@example.com"
+    }
+  ]
+}
